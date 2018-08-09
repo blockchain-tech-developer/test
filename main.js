@@ -43,6 +43,28 @@ console.log(sunChain);//展示当前blockchain
 
 
 
+// https://github.com/lhartikk/naivechain
+// https://github.com/lhartikk/naivechain
+
+// https://lhartikk.github.io/jekyll/update/2017/07/14/chapter1.html
+// https://github.com/conradoqg/naivecoin
+
+
+// https://blockchain.nambrot.com/
+// https://github.com/nambrot/blockchain-in-js
+
+
+// https://blockchaindemo.io/
+// https://github.com/seanjameshan/blockchain
+
+
+// https://github.com/SavjeeTutorials/SavjeeCoin
+
+
+// https://github.com/rddill-IBM/ZeroToBlockchain
+
+// https://github.com/keppel/lotion
+
 
 
 
@@ -66,3 +88,13 @@ function calculateBalanceOfAddress(address){
 }
 
 calculateBalanceOfAddress('address3');
+
+
+
+// https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+// https://github.com/dvf/blockchain
+
+
+// https://github.com/cosme12/SimpleCoin
+
+
